@@ -1,0 +1,2 @@
+# quality-assurance
+Забезпечення якості
